@@ -47,10 +47,11 @@ The goal of this project was to build a real-world business website that helps a
 - JavaScript
 - Responsive Design Principles
 
-## 👤 Author
+## Author
 
-PraiseGod Eze  
-Cybersecurity | SOC Analyst 
-Founder of Sentia Technologies  
+**PraiseGod Eze**  
+Lead Developer  
 
-[LinkedIn](https://www.linkedin.com/in/praisegod-eze-67728b306)
+LinkedIn: [https://www.linkedin.com/in/praisegod-eze-67728b306/]  
+GitHub: [https://github.com/chiemerie-eze]
+
